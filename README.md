@@ -1,2 +1,2 @@
 # cupcake-e-commerce-database
-Databse for the cupcake e-commerce project
+Database for the cupcake e-commerce project
